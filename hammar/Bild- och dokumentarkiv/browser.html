@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bilder &amp; Dokument</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="browser.css">
+</head>
+<body>
+
+  <header>
+    <span class="site-name"><a href="../index.html">Hammarska Släktföreningen</a></span>
+    <span class="header-sub">/ bilder &amp; dokument</span>
+  </header>
+
+  <main>
+    <nav id="breadcrumb" aria-label="Sökväg"></nav>
+
+    <div id="toolbar">
+      <span id="item-count"></span>
+      <div id="view-toggle">
+        <button id="btn-list"                 title="Listvy"  aria-pressed="false">☰</button>
+        <button id="btn-grid" class="active"  title="Rutnät"  aria-pressed="true">⊞</button>
+      </div>
+    </div>
+
+    <div id="file-container"></div>
+  </main>
+
+  <!-- Lightbox -->
+  <div id="lightbox" hidden role="dialog" aria-modal="true" aria-label="Bildvisning">
+    <button id="lb-close" title="Stäng (Esc)">✕</button>
+    <button id="lb-prev"  title="Föregående (←)">‹</button>
+    <button id="lb-next"  title="Nästa (→)">›</button>
+    <div id="lb-img-wrap">
+      <img id="lb-img" src="" alt="">
+    </div>
+    <p id="lb-caption"></p>
+  </div>
+
+  <script src="browser.js"></script>
+</body>
+</html>

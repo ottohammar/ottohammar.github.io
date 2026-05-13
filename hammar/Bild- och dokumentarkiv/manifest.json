@@ -1,0 +1,858 @@
+{
+  "name": "root",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Formalia",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Årsmötesprotokoll 2022.pdf",
+          "type": "document",
+          "path": "Formalia/Årsmötesprotokoll 2022.pdf",
+          "size": "617.5 KB"
+        },
+        {
+          "name": "Hammar 4 okt sign.pdf",
+          "type": "document",
+          "path": "Formalia/Hammar 4 okt sign.pdf",
+          "size": "111.3 KB"
+        },
+        {
+          "name": "Hammar styrelsemöte 18 april-23.pdf",
+          "type": "document",
+          "path": "Formalia/Hammar styrelsemöte 18 april-23.pdf",
+          "size": "142.7 KB"
+        },
+        {
+          "name": "Hammarska Matrikeln.docx",
+          "type": "document",
+          "path": "Formalia/Hammarska Matrikeln.docx",
+          "size": "41.3 KB"
+        },
+        {
+          "name": "Medl. i Släktför2. -21.doc",
+          "type": "document",
+          "path": "Formalia/Medl. i Släktför2. -21.doc",
+          "size": "21.5 KB"
+        },
+        {
+          "name": "Medlemmar HSF 2022.docx",
+          "type": "document",
+          "path": "Formalia/Medlemmar HSF 2022.docx",
+          "size": "12.1 KB"
+        },
+        {
+          "name": "SläktkalendernHammar20110412.pdf",
+          "type": "document",
+          "path": "Formalia/SläktkalendernHammar20110412.pdf",
+          "size": "89.0 KB"
+        },
+        {
+          "name": "Styrelsemöte 43-24.pdf",
+          "type": "document",
+          "path": "Formalia/Styrelsemöte 43-24.pdf",
+          "size": "146.8 KB"
+        },
+        {
+          "name": "Verksamhetsberättelse 2009 2013.docx",
+          "type": "document",
+          "path": "Formalia/Verksamhetsberättelse 2009 2013.docx",
+          "size": "28.1 KB"
+        },
+        {
+          "name": "Verksamhetsberättelse 2017.doc",
+          "type": "document",
+          "path": "Formalia/Verksamhetsberättelse 2017.doc",
+          "size": "27.0 KB"
+        },
+        {
+          "name": "Årsmötet 2017.doc",
+          "type": "document",
+          "path": "Formalia/Årsmötet 2017.doc",
+          "size": "33.0 KB"
+        }
+      ]
+    },
+    {
+      "name": "Golfbilder",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Albert senior på Lagmatch, Hovås mot Kevinge i oktober 1947 2.jpg",
+          "type": "image",
+          "path": "Golfbilder/Albert senior på Lagmatch, Hovås mot Kevinge i oktober 1947 2.jpg",
+          "size": "18.9 KB"
+        },
+        {
+          "name": "Albert senior på Lagmatch, Hovås mot Kevinge i oktober 1947.jpg",
+          "type": "image",
+          "path": "Golfbilder/Albert senior på Lagmatch, Hovås mot Kevinge i oktober 1947.jpg",
+          "size": "20.6 KB"
+        },
+        {
+          "name": "Bigge Hammar.jpg",
+          "type": "image",
+          "path": "Golfbilder/Bigge Hammar.jpg",
+          "size": "85.8 KB"
+        },
+        {
+          "name": "Els-Brita Skjöldebrand.jpg",
+          "type": "image",
+          "path": "Golfbilder/Els-Brita Skjöldebrand.jpg",
+          "size": "49.3 KB"
+        },
+        {
+          "name": "Från vänser Gösta Arfwedson, Albert senior, och George Svensson.jpg",
+          "type": "image",
+          "path": "Golfbilder/Från vänser Gösta Arfwedson, Albert senior, och George Svensson.jpg",
+          "size": "5.7 KB"
+        },
+        {
+          "name": "Jeanne (vänster) och Sébastien (randig tröja).jpg",
+          "type": "image",
+          "path": "Golfbilder/Jeanne (vänster) och Sébastien (randig tröja).jpg",
+          "size": "46.6 KB"
+        },
+        {
+          "name": "Nils Hammar.jpg",
+          "type": "image",
+          "path": "Golfbilder/Nils Hammar.jpg",
+          "size": "22.2 KB"
+        },
+        {
+          "name": "Patrik Hammar.jpg",
+          "type": "image",
+          "path": "Golfbilder/Patrik Hammar.jpg",
+          "size": "25.7 KB"
+        },
+        {
+          "name": "Sébastien (fram).jpg",
+          "type": "image",
+          "path": "Golfbilder/Sébastien (fram).jpg",
+          "size": "46.8 KB"
+        },
+        {
+          "name": "Sébastien (vänster).jpg",
+          "type": "image",
+          "path": "Golfbilder/Sébastien (vänster).jpg",
+          "size": "42.0 KB"
+        }
+      ]
+    },
+    {
+      "name": "Julbrev",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Julbrev 2007.doc",
+          "type": "document",
+          "path": "Julbrev/Julbrev 2007.doc",
+          "size": "27.5 KB"
+        },
+        {
+          "name": "Julbrev 2008.docx",
+          "type": "document",
+          "path": "Julbrev/Julbrev 2008.docx",
+          "size": "14.4 KB"
+        },
+        {
+          "name": "Julbrev 2009.docx",
+          "type": "document",
+          "path": "Julbrev/Julbrev 2009.docx",
+          "size": "14.8 KB"
+        },
+        {
+          "name": "Julbrev 2010.doc",
+          "type": "document",
+          "path": "Julbrev/Julbrev 2010.doc",
+          "size": "41.5 KB"
+        },
+        {
+          "name": "Julbrev 2011.doc",
+          "type": "document",
+          "path": "Julbrev/Julbrev 2011.doc",
+          "size": "33.0 KB"
+        },
+        {
+          "name": "Julbrev 2012.doc",
+          "type": "document",
+          "path": "Julbrev/Julbrev 2012.doc",
+          "size": "33.5 KB"
+        },
+        {
+          "name": "Julbrev 2013.docx",
+          "type": "document",
+          "path": "Julbrev/Julbrev 2013.docx",
+          "size": "27.3 KB"
+        },
+        {
+          "name": "Julbrev 2014.doc",
+          "type": "document",
+          "path": "Julbrev/Julbrev 2014.doc",
+          "size": "42.5 KB"
+        },
+        {
+          "name": "Julbrev 2016.doc",
+          "type": "document",
+          "path": "Julbrev/Julbrev 2016.doc",
+          "size": "45.5 KB"
+        },
+        {
+          "name": "Julbrev 2017.docx",
+          "type": "document",
+          "path": "Julbrev/Julbrev 2017.docx",
+          "size": "17.4 KB"
+        },
+        {
+          "name": "Julbrev 2018.doc",
+          "type": "document",
+          "path": "Julbrev/Julbrev 2018.doc",
+          "size": "30.0 KB"
+        },
+        {
+          "name": "Julbrev 2019.pdf",
+          "type": "document",
+          "path": "Julbrev/Julbrev 2019.pdf",
+          "size": "4.7 MB"
+        },
+        {
+          "name": "Julbrev 2021.doc",
+          "type": "document",
+          "path": "Julbrev/Julbrev 2021.doc",
+          "size": "30.5 KB"
+        },
+        {
+          "name": "Julbrev 2023.pdf",
+          "type": "document",
+          "path": "Julbrev/Julbrev 2023.pdf",
+          "size": "2.7 MB"
+        },
+        {
+          "name": "Julbrev 2024.pdf",
+          "type": "document",
+          "path": "Julbrev/Julbrev 2024.pdf",
+          "size": "333.0 KB"
+        },
+        {
+          "name": "Julbrev 2025.pdf",
+          "type": "document",
+          "path": "Julbrev/Julbrev 2025.pdf",
+          "size": "2.4 MB"
+        }
+      ]
+    },
+    {
+      "name": "Släktträffar",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Erstavik 2017",
+          "type": "folder",
+          "children": [
+            {
+              "name": "24801608-Idb4p.jpg",
+              "type": "image",
+              "path": "Släktträffar/Erstavik 2017/24801608-Idb4p.jpg",
+              "size": "27.4 KB"
+            },
+            {
+              "name": "24801609-cpK2h.jpg",
+              "type": "image",
+              "path": "Släktträffar/Erstavik 2017/24801609-cpK2h.jpg",
+              "size": "32.6 KB"
+            },
+            {
+              "name": "24801610-Pchy1.jpg",
+              "type": "image",
+              "path": "Släktträffar/Erstavik 2017/24801610-Pchy1.jpg",
+              "size": "33.4 KB"
+            },
+            {
+              "name": "24801611-IjXQo.jpg",
+              "type": "image",
+              "path": "Släktträffar/Erstavik 2017/24801611-IjXQo.jpg",
+              "size": "37.1 KB"
+            },
+            {
+              "name": "24801613-fu485.jpg",
+              "type": "image",
+              "path": "Släktträffar/Erstavik 2017/24801613-fu485.jpg",
+              "size": "36.4 KB"
+            },
+            {
+              "name": "24801614-gr8x8.jpg",
+              "type": "image",
+              "path": "Släktträffar/Erstavik 2017/24801614-gr8x8.jpg",
+              "size": "104.3 KB"
+            },
+            {
+              "name": "24801615-dyrhT.jpg",
+              "type": "image",
+              "path": "Släktträffar/Erstavik 2017/24801615-dyrhT.jpg",
+              "size": "95.5 KB"
+            },
+            {
+              "name": "24801616-MtXLe.jpg",
+              "type": "image",
+              "path": "Släktträffar/Erstavik 2017/24801616-MtXLe.jpg",
+              "size": "113.5 KB"
+            },
+            {
+              "name": "24801617-pNJEu.jpg",
+              "type": "image",
+              "path": "Släktträffar/Erstavik 2017/24801617-pNJEu.jpg",
+              "size": "69.4 KB"
+            },
+            {
+              "name": "24801618-d1QDZ.jpg",
+              "type": "image",
+              "path": "Släktträffar/Erstavik 2017/24801618-d1QDZ.jpg",
+              "size": "38.7 KB"
+            },
+            {
+              "name": "24801619-4ISGv.jpg",
+              "type": "image",
+              "path": "Släktträffar/Erstavik 2017/24801619-4ISGv.jpg",
+              "size": "43.3 KB"
+            },
+            {
+              "name": "24801620-oZw5k.jpg",
+              "type": "image",
+              "path": "Släktträffar/Erstavik 2017/24801620-oZw5k.jpg",
+              "size": "91.6 KB"
+            },
+            {
+              "name": "24801621-8rlI6.jpg",
+              "type": "image",
+              "path": "Släktträffar/Erstavik 2017/24801621-8rlI6.jpg",
+              "size": "96.3 KB"
+            },
+            {
+              "name": "24801622-JpQn1.jpg",
+              "type": "image",
+              "path": "Släktträffar/Erstavik 2017/24801622-JpQn1.jpg",
+              "size": "14.5 KB"
+            },
+            {
+              "name": "24801623-xCsnS.jpg",
+              "type": "image",
+              "path": "Släktträffar/Erstavik 2017/24801623-xCsnS.jpg",
+              "size": "28.4 KB"
+            },
+            {
+              "name": "24801624-tIcfV.jpg",
+              "type": "image",
+              "path": "Släktträffar/Erstavik 2017/24801624-tIcfV.jpg",
+              "size": "116.2 KB"
+            },
+            {
+              "name": "24801625-P0zhQ.jpg",
+              "type": "image",
+              "path": "Släktträffar/Erstavik 2017/24801625-P0zhQ.jpg",
+              "size": "92.7 KB"
+            },
+            {
+              "name": "24801626-uqo0W.jpg",
+              "type": "image",
+              "path": "Släktträffar/Erstavik 2017/24801626-uqo0W.jpg",
+              "size": "83.6 KB"
+            },
+            {
+              "name": "24856000-mnW4P.jpg",
+              "type": "image",
+              "path": "Släktträffar/Erstavik 2017/24856000-mnW4P.jpg",
+              "size": "298.7 KB"
+            }
+          ]
+        },
+        {
+          "name": "Nyckelviken 2022",
+          "type": "folder",
+          "children": [
+            {
+              "name": "30292980-ifp6v.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292980-ifp6v.jpg",
+              "size": "2.0 MB"
+            },
+            {
+              "name": "30292981-qaQo3.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292981-qaQo3.jpg",
+              "size": "2.2 MB"
+            },
+            {
+              "name": "30292982-rGnVC.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292982-rGnVC.jpg",
+              "size": "1.6 MB"
+            },
+            {
+              "name": "30292983-uuDNJ.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292983-uuDNJ.jpg",
+              "size": "1.8 MB"
+            },
+            {
+              "name": "30292984-usfvJ.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292984-usfvJ.jpg",
+              "size": "1.9 MB"
+            },
+            {
+              "name": "30292985-vvJ95.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292985-vvJ95.jpg",
+              "size": "2.5 MB"
+            },
+            {
+              "name": "30292986-axZBq.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292986-axZBq.jpg",
+              "size": "1.8 MB"
+            },
+            {
+              "name": "30292987-h7iFR.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292987-h7iFR.jpg",
+              "size": "3.0 MB"
+            },
+            {
+              "name": "30292988-V48pC.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292988-V48pC.jpg",
+              "size": "1.9 MB"
+            },
+            {
+              "name": "30292989-A87mb.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292989-A87mb.jpg",
+              "size": "2.2 MB"
+            },
+            {
+              "name": "30292990-2xwQk.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292990-2xwQk.jpg",
+              "size": "1.5 MB"
+            },
+            {
+              "name": "30292991-stBTe.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292991-stBTe.jpg",
+              "size": "1.4 MB"
+            },
+            {
+              "name": "30292992-5yQ4i.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292992-5yQ4i.jpg",
+              "size": "1.6 MB"
+            },
+            {
+              "name": "30292993-6bmsd.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292993-6bmsd.jpg",
+              "size": "1.3 MB"
+            },
+            {
+              "name": "30292994-6gXrG.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292994-6gXrG.jpg",
+              "size": "1.7 MB"
+            },
+            {
+              "name": "30292995-20bl9.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292995-20bl9.jpg",
+              "size": "1.2 MB"
+            },
+            {
+              "name": "30292996-3QA5C.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292996-3QA5C.jpg",
+              "size": "1.4 MB"
+            },
+            {
+              "name": "30292997-mlbqp.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292997-mlbqp.jpg",
+              "size": "1.2 MB"
+            },
+            {
+              "name": "30292998-6uPDM.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292998-6uPDM.jpg",
+              "size": "2.0 MB"
+            },
+            {
+              "name": "30292999-qRCKw.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/30292999-qRCKw.jpg",
+              "size": "1.8 MB"
+            },
+            {
+              "name": "98845634-wPEvR.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/98845634-wPEvR.jpg",
+              "size": "384.3 KB"
+            },
+            {
+              "name": "98845640-Wzp6R.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/98845640-Wzp6R.jpg",
+              "size": "256.8 KB"
+            },
+            {
+              "name": "Släktträff Nyckelvikens herrgård 2022.jpg",
+              "type": "image",
+              "path": "Släktträffar/Nyckelviken 2022/Släktträff Nyckelvikens herrgård 2022.jpg",
+              "size": "333.8 KB"
+            }
+          ]
+        },
+        {
+          "name": "Svanesund 2013",
+          "type": "folder",
+          "children": [
+            {
+              "name": "12905901-wjoeo.jpg",
+              "type": "image",
+              "path": "Släktträffar/Svanesund 2013/12905901-wjoeo.jpg",
+              "size": "121.4 KB"
+            },
+            {
+              "name": "12905902-BmQ28.jpg",
+              "type": "image",
+              "path": "Släktträffar/Svanesund 2013/12905902-BmQ28.jpg",
+              "size": "110.9 KB"
+            },
+            {
+              "name": "12905903-u3Wdv.jpg",
+              "type": "image",
+              "path": "Släktträffar/Svanesund 2013/12905903-u3Wdv.jpg",
+              "size": "90.3 KB"
+            },
+            {
+              "name": "12905904-wBV7g.jpg",
+              "type": "image",
+              "path": "Släktträffar/Svanesund 2013/12905904-wBV7g.jpg",
+              "size": "93.7 KB"
+            },
+            {
+              "name": "12905906-r0zNa.jpg",
+              "type": "image",
+              "path": "Släktträffar/Svanesund 2013/12905906-r0zNa.jpg",
+              "size": "505.5 KB"
+            },
+            {
+              "name": "12905910-tVj9V.jpg",
+              "type": "image",
+              "path": "Släktträffar/Svanesund 2013/12905910-tVj9V.jpg",
+              "size": "462.2 KB"
+            },
+            {
+              "name": "12905912-fPbJs.jpg",
+              "type": "image",
+              "path": "Släktträffar/Svanesund 2013/12905912-fPbJs.jpg",
+              "size": "467.9 KB"
+            }
+          ]
+        },
+        {
+          "name": "1968-5-18 Stallmästaregården.jpg",
+          "type": "image",
+          "path": "Släktträffar/1968-5-18 Stallmästaregården.jpg",
+          "size": "337.8 KB"
+        },
+        {
+          "name": "1981-9-4 Djurgårdsbrunn.jpg",
+          "type": "image",
+          "path": "Släktträffar/1981-9-4 Djurgårdsbrunn.jpg",
+          "size": "401.5 KB"
+        },
+        {
+          "name": "1985-8-14 Svanesund.jpg",
+          "type": "image",
+          "path": "Släktträffar/1985-8-14 Svanesund.jpg",
+          "size": "499.6 KB"
+        },
+        {
+          "name": "1995-5-13 Ulriksdal.jpg",
+          "type": "image",
+          "path": "Släktträffar/1995-5-13 Ulriksdal.jpg",
+          "size": "319.7 KB"
+        },
+        {
+          "name": "1998-9-(12-13) Göteborg.jpg",
+          "type": "image",
+          "path": "Släktträffar/1998-9-(12-13) Göteborg.jpg",
+          "size": "284.9 KB"
+        },
+        {
+          "name": "2001-9-1 Ramnäs.jpg",
+          "type": "image",
+          "path": "Släktträffar/2001-9-1 Ramnäs.jpg",
+          "size": "748.5 KB"
+        },
+        {
+          "name": "2005-4-3 Ronnum.jpg",
+          "type": "image",
+          "path": "Släktträffar/2005-4-3 Ronnum.jpg",
+          "size": "419.0 KB"
+        },
+        {
+          "name": "2009-9-(5-6) Sandhamn.jpg",
+          "type": "image",
+          "path": "Släktträffar/2009-9-(5-6) Sandhamn.jpg",
+          "size": "341.7 KB"
+        },
+        {
+          "name": "2013-9-(14-15) Svanesund.jpg",
+          "type": "image",
+          "path": "Släktträffar/2013-9-(14-15) Svanesund.jpg",
+          "size": "549.0 KB"
+        },
+        {
+          "name": "2017-9-9 Magasinet på Erstavik.jpg",
+          "type": "image",
+          "path": "Släktträffar/2017-9-9 Magasinet på Erstavik.jpg",
+          "size": "194.9 KB"
+        },
+        {
+          "name": "2022-9-10 Nyckelvikens herrgård.jpg",
+          "type": "image",
+          "path": "Släktträffar/2022-9-10 Nyckelvikens herrgård.jpg",
+          "size": "333.8 KB"
+        },
+        {
+          "name": "2026-5-9 MS Segelkronan, Skeppsholmen.jpg",
+          "type": "image",
+          "path": "Släktträffar/2026-5-9 MS Segelkronan, Skeppsholmen.jpg",
+          "size": "465.2 KB"
+        }
+      ]
+    },
+    {
+      "name": "absolut hammar.jpg",
+      "type": "image",
+      "path": "absolut hammar.jpg",
+      "size": "413.9 KB"
+    },
+    {
+      "name": "Albert Hammar.jpg",
+      "type": "image",
+      "path": "Albert Hammar.jpg",
+      "size": "468.9 KB"
+    },
+    {
+      "name": "Bigge Hammar.jpg",
+      "type": "image",
+      "path": "Bigge Hammar.jpg",
+      "size": "85.8 KB"
+    },
+    {
+      "name": "Birger Hammar (1872-1948).jpg",
+      "type": "image",
+      "path": "Birger Hammar (1872-1948).jpg",
+      "size": "423.7 KB"
+    },
+    {
+      "name": "Birger Hammar II.jpg",
+      "type": "image",
+      "path": "Birger Hammar II.jpg",
+      "size": "46.6 KB"
+    },
+    {
+      "name": "Birger I Ex Libris.jpg",
+      "type": "image",
+      "path": "Birger I Ex Libris.jpg",
+      "size": "1.1 MB"
+    },
+    {
+      "name": "Birger, Gustaf, och John.png",
+      "type": "image",
+      "path": "Birger, Gustaf, och John.png",
+      "size": "1.7 MB"
+    },
+    {
+      "name": "Birgitta Hammar.jpg",
+      "type": "image",
+      "path": "Birgitta Hammar.jpg",
+      "size": "22.0 KB"
+    },
+    {
+      "name": "brudkronan.jpg",
+      "type": "image",
+      "path": "brudkronan.jpg",
+      "size": "121.9 KB"
+    },
+    {
+      "name": "Ellen Hammar (gift med John 1896). Förmodad dotter till Carl XV och Hanna Styrell (Stjernblad)..jpg",
+      "type": "image",
+      "path": "Ellen Hammar (gift med John 1896). Förmodad dotter till Carl XV och Hanna Styrell (Stjernblad)..jpg",
+      "size": "59.3 KB"
+    },
+    {
+      "name": "Else (Omi) Hammar född Rodatz, från Hamburg. Föddes1878 avled 1984 vid 105 års ålder och var vid sin död Stockholms äldsta innevånare.jpg",
+      "type": "image",
+      "path": "Else (Omi) Hammar född Rodatz, från Hamburg. Föddes1878 avled 1984 vid 105 års ålder och var vid sin död Stockholms äldsta innevånare.jpg",
+      "size": "513.8 KB"
+    },
+    {
+      "name": "Gustaf Hammar (1873-1954).jpg",
+      "type": "image",
+      "path": "Gustaf Hammar (1873-1954).jpg",
+      "size": "171.3 KB"
+    },
+    {
+      "name": "hammar o co logga.jpg",
+      "type": "image",
+      "path": "hammar o co logga.jpg",
+      "size": "52.8 KB"
+    },
+    {
+      "name": "Hanna Olsdotter, först gift med Carl Mauritz Hammar, därefter med Otto Jansson 1868.jpg",
+      "type": "image",
+      "path": "Hanna Olsdotter, först gift med Carl Mauritz Hammar, därefter med Otto Jansson 1868.jpg",
+      "size": "397.1 KB"
+    },
+    {
+      "name": "Här är Ellens mamma, Hanna Styrell artistnamn (Stjernblad) 1842-1904 och gifte sig 1876 med friherre Adolf Tersmeden och de bosatte sig Ramnäs bruk i Västmanland.jpg",
+      "type": "image",
+      "path": "Här är Ellens mamma, Hanna Styrell artistnamn (Stjernblad) 1842-1904 och gifte sig 1876 med friherre Adolf Tersmeden och de bosatte sig Ramnäs bruk i Västmanland.jpg",
+      "size": "282.1 KB"
+    },
+    {
+      "name": "Jim Hammar Tatuering inzoomat.jpg",
+      "type": "image",
+      "path": "Jim Hammar Tatuering inzoomat.jpg",
+      "size": "569.8 KB"
+    },
+    {
+      "name": "Jim Hammar Tatuering.jpg",
+      "type": "image",
+      "path": "Jim Hammar Tatuering.jpg",
+      "size": "484.1 KB"
+    },
+    {
+      "name": "Jim och Emelie Hammar.jpg",
+      "type": "image",
+      "path": "Jim och Emelie Hammar.jpg",
+      "size": "402.6 KB"
+    },
+    {
+      "name": "John Hammar.jpg",
+      "type": "image",
+      "path": "John Hammar.jpg",
+      "size": "100.8 KB"
+    },
+    {
+      "name": "John Hammars Grav.jpg",
+      "type": "image",
+      "path": "John Hammars Grav.jpg",
+      "size": "242.1 KB"
+    },
+    {
+      "name": "Mugg & Musmatta.jpg",
+      "type": "image",
+      "path": "Mugg & Musmatta.jpg",
+      "size": "442.3 KB"
+    },
+    {
+      "name": "muggar, Från vänster 1. Hammar Management, 2. Mugg från R.O.O.M, 3. Officiell Hammar-mugg.jpg",
+      "type": "image",
+      "path": "muggar, Från vänster 1. Hammar Management, 2. Mugg från R.O.O.M, 3. Officiell Hammar-mugg.jpg",
+      "size": "786.0 KB"
+    },
+    {
+      "name": "nyhet.jpg",
+      "type": "image",
+      "path": "nyhet.jpg",
+      "size": "394.3 KB"
+    },
+    {
+      "name": "Otto Jansson i smedjan.jpg",
+      "type": "image",
+      "path": "Otto Jansson i smedjan.jpg",
+      "size": "399.6 KB"
+    },
+    {
+      "name": "Otto Jansson.jpg",
+      "type": "image",
+      "path": "Otto Jansson.jpg",
+      "size": "162.3 KB"
+    },
+    {
+      "name": "Otto och Hanna Jansson omgivna av från vänster sönerna John och Emil, stående, och Gustaf samt Birger sittande..jpg",
+      "type": "image",
+      "path": "Otto och Hanna Jansson omgivna av från vänster sönerna John och Emil, stående, och Gustaf samt Birger sittande..jpg",
+      "size": "555.0 KB"
+    },
+    {
+      "name": "Patrik Mannheimer på Kebnekaises topp 2018.jpg",
+      "type": "image",
+      "path": "Patrik Mannheimer på Kebnekaises topp 2018.jpg",
+      "size": "79.9 KB"
+    },
+    {
+      "name": "Restads Herrgård.jpg",
+      "type": "image",
+      "path": "Restads Herrgård.jpg",
+      "size": "472.2 KB"
+    },
+    {
+      "name": "ringarna.jpg",
+      "type": "image",
+      "path": "ringarna.jpg",
+      "size": "17.0 KB"
+    },
+    {
+      "name": "Ruth Hammar f. Ekstrand (1879-1955)..jpg",
+      "type": "image",
+      "path": "Ruth Hammar f. Ekstrand (1879-1955)..jpg",
+      "size": "21.9 KB"
+    },
+    {
+      "name": "släkttavla 2004.jpg",
+      "type": "image",
+      "path": "släkttavla 2004.jpg",
+      "size": "126.0 KB"
+    },
+    {
+      "name": "släkttavla 2018.png",
+      "type": "image",
+      "path": "släkttavla 2018.png",
+      "size": "123.4 KB"
+    },
+    {
+      "name": "Stina Bengtsdotter.jpg",
+      "type": "image",
+      "path": "Stina Bengtsdotter.jpg",
+      "size": "652.0 KB"
+    },
+    {
+      "name": "Tomas med flagga.jpg",
+      "type": "image",
+      "path": "Tomas med flagga.jpg",
+      "size": "70.6 KB"
+    },
+    {
+      "name": "vapen enkel.jpg",
+      "type": "image",
+      "path": "vapen enkel.jpg",
+      "size": "42.3 KB"
+    },
+    {
+      "name": "vapen stor.jpg",
+      "type": "image",
+      "path": "vapen stor.jpg",
+      "size": "224.5 KB"
+    },
+    {
+      "name": "ånimskogs kyrka.jpg",
+      "type": "image",
+      "path": "ånimskogs kyrka.jpg",
+      "size": "351.4 KB"
+    }
+  ]
+}
